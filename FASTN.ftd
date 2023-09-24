@@ -5,7 +5,7 @@ favicon: /-/johndaison.github.io/bluefastn/favicon.ico
 
 
 -- fastn.dependency: fastn-community.github.io/midnight-rush as theme
--- fastn.dependency: fastn-community.github.io/midnight-rush-cs as cs
+-- fastn.dependency: fastn-community.github.io/forest-cs as cs
 -- fastn.dependency: fastn-community.github.io/midnight-rush-typography as typo
 
 -- fastn.auto-import: johndaison.github.io/bluefastn/FASTN/ws
